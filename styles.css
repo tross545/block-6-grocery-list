@@ -1,0 +1,21 @@
+h3{
+  color: rgb(137, 30, 9);
+  font-size: 70px;
+}
+.pantry{
+  display: inline-block;
+  width: 500px;
+  background-color: rgba(185, 148, 68, 0.73);
+}
+.freezer{
+  display: inline-block;
+  width: 500px;
+  background-color: rgba(185, 148, 68, 0.73);
+}
+.category{
+  font-family: sans-serif;
+  width: 800px;
+}
+html{
+  margin: 0 auto;
+}
